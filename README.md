@@ -8,7 +8,7 @@ To detect the presence and two type of dog species, namely Pomeranian and Chihua
 ### Specific Domain Difficulty: 
 Pomeranian and Chihuahua are similar sized dogs. Common colours are brown, black & white. There are two types of Chihuahua – long haired and short haired. Long haired versions of Chihuahua are very similar to typical Pomeranian. Only the face/head features are useful distinction between them. Within Chihuahua species, there are some with folded ears, some with pointed ears. Both Pomeranian and long hair Chihuahua have curly tails. Long haired Chihuahua with folded ears are especially difficult to distinguish from Pomeranian. 
 
-![alt text](https://github.com/kenaimachine/?raw=true)
+![alt text](https://github.com/kenaimachine/dogdetection/blob/main/DetectPomeranianAndChihuahuaFromVideo.png?raw=true)
 
 ### Features Of Video Used For Detection Of Pomeranian And Chihuahua.
 The video itself comprises of four separate scenes. 
