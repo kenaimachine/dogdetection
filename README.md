@@ -1,3 +1,5 @@
+#### Sharing Part of my project work done while taking Specialist Diploma In Applied Artificial Intelligence
+
 # dogdetection
 To detect the presence and two type of dog species, namely Pomeranian and Chihuahua in the video
 
