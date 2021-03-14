@@ -12,6 +12,10 @@ Pomeranian and Chihuahua are similar sized dogs. Common colours are brown, black
 
 ![alt text](https://github.com/kenaimachine/dogdetection/blob/main/DetectPomeranianAndChihuahuaFromVideo.png?raw=true)
 
+[![Watch the video](https://user-images.githubusercontent.com/61535921/111073998-14d4c900-851c-11eb-807d-fc50bf6319d0.png)](https://user-images.githubusercontent.com/61535921/111073972-fa025480-851b-11eb-9b09-555886762baf.mov)
+
+[![Watch the video](https://user-images.githubusercontent.com/61535921/111074011-27e79900-851c-11eb-807a-0408390b073a.png)](https://user-images.githubusercontent.com/61535921/111073998-14d4c900-851c-11eb-807d-fc50bf6319d0.png)
+
 ### Features Of Video Used For Detection Of Pomeranian And Chihuahua.
 The video itself comprises of four separate scenes. 
 1)	The 1st scene contains only two Pomeranian, one black and one brown. The black Pomeranian is largely stationary while the brown Pomeranian moves around it. This scene is to evaluate the sensitivity of the model in detecting Pomeranians while stationary, moving and in close proximity to each other. 
